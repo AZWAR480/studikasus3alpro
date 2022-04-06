@@ -96,6 +96,6 @@ int main(){
     cout<<"| - Total Harga              = Rp. "<<Atotal<<"        |"<<endl;
     cout<<"| Sub Total                  = Rp. "<<akhir<<"        |"<<endl;
     cout<<"| Pembayaran                 = Rp. "<<duit<<"        |"<<endl;
-    cout<<"| Kembalian			= Rp. "<<kembalian<<"		|"<<endl;
+    cout<<"| Kembalian                  = Rp. "<<kembalian<<"        |"<<endl;
     cout<<"+-----------------------------------------------+"<<endl;  
 }
