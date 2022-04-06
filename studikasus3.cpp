@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int porsi[10], kode[10], loop, harga, total=0, bayar, ongkir, akhir, kembalian, Atotal, Aongkir, dtotal, dongkir;
+int porsi[10], kode[10], loop, harga, total=0, duit, ongkir, akhir, kembalian, Atotal, Aongkir, dtotal, dongkir;
 float jarak;
 string nama[10];
 
