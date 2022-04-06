@@ -66,7 +66,7 @@ int main(){
         Atotal=total-(0.15*total);
         dtotal=0.15*total;
     }
-    else{
+    else if(total > 150000){
         dongkir=8000;
         Aongkir=ongkir-8000;
         Atotal=total-(0.35*total);
