@@ -60,7 +60,12 @@ int main(){
 		cout<<"Anda di kenakan Biaya Ongkir  = Rp.25000"<<endl;
 	}
 	
-    if(total > 50000 && total < 150000){
+    if(total > 25000 && total < 50000){
+        dongkir=3000;
+        Aongkir=ongkir-3000;
+        Atotal=total;
+    }
+    else if(total > 50000 && total < 150000){
         dongkir=5000;
         Aongkir=ongkir-5000;
         Atotal=total-(0.15*total);
