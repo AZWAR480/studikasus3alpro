@@ -82,7 +82,7 @@ int main(){
 	cout<<" Total Harga                  = Rp."<<akhir<<endl;
 	cout<<" Masukan Pembayaran           = Rp.";
 	cin>>duit;
-    kembalian=duit-total;
+    kembalian=duit-akhir;
 
     cout<<"+-----------------------------------------------+"<<endl;
     cout<<"|                    Rumah Makan                |"<<endl;
